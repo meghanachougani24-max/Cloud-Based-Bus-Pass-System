@@ -8,7 +8,7 @@ ticket at any time using a unique ticket ID.
 ## Problem It Solves
 Traditional/manual booking systems often suffer from:
 - **Ticket loss** — no reliable way to recover proof of a booking
-- **Ticket theft / duplication** — the same seat being sold to multiple
+- **Ticket theft or duplication** — the same seat being sold to multiple
   people
 - **Incorrect pricing** — prices manipulated by whoever is entering the
   data
